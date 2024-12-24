@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@mapbox/polyline": "^1.2.1",
     "@react-google-maps/api": "^2.20.3",
     "@supabase/supabase-js": "^2.47.6",
     "next": "14.2.17",
